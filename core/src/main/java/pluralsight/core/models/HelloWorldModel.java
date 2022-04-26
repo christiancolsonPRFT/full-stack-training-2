@@ -15,7 +15,7 @@
  */
 package pluralsight.core.models;
 
-import javax.annotation.PostConstruct;
+// import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 import javax.inject.Named;
 
